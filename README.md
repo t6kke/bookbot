@@ -1,2 +1,3 @@
-# bookbot
-boot.dev learing project bookbot
+boot.dev 
+
+BookBot is my first git project!
